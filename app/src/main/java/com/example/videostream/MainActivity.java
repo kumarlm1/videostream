@@ -34,8 +34,8 @@ public class MainActivity extends AppCompatActivity {
         btn=findViewById(R.id.btn);
         pgbar=findViewById(R.id.pgbar);
 
-        play("http://192.168.43.105/video/v2.mp4");
-        play("rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov");
+      //  play("http://192.168.43.105/video/v2.mp4");
+      //  play("rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov");
         play(str);
 
        btn.setOnClickListener(new View.OnClickListener() {
