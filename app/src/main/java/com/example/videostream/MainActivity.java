@@ -1,7 +1,8 @@
 package com.example.videostream;
 
-import androidx.appcompat.app.AppCompatActivity;
+// lines added for testing
 
+import androidx.appcompat.app.AppCompatActivity;
 import android.content.pm.ActivityInfo;
 import android.media.MediaPlayer;
 import android.net.Uri;
